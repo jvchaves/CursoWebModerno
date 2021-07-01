@@ -12,3 +12,5 @@ function aleatorio([min = 0, max = 1000]){
 }
 
 console.log(aleatorio([50,40]))
+
+console.log('1)', '1' <= 1)
