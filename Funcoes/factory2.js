@@ -1,7 +1,7 @@
-function criarProduto(nome,preco){
+function criarProduto(nome, preco){
     return{
-        nome:nome,
-        preco:preco,
+        nome,
+        preco,
         desconto:preco * 0.10
     }
 }
